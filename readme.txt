@@ -2,7 +2,7 @@
 
  	                 **** BAMAZON Store Front ****
 					
-			           Copyrights reserved coderaphi
+			 Copyrights reserved coderaphi
 
 ------------------------------------------------------------------------------------------
 
